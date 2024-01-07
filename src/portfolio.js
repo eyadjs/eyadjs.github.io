@@ -153,7 +153,7 @@ const workExperiences = {
       role: "Research Assistant",
       company: "McMaster University",
       companylogo: require("./assets/images/mcmaster.jpg"),
-      date: "May 2017 – May 2018",
+      date: "September 2021 – April 2022",
       desc: "Used Excel and statistical methods such as regression analyze the first wave of COVID-19 in several countries."
     }
   ]
